@@ -1,0 +1,11 @@
+{
+  "org": "ansible-collections",
+  "repo": "frr.frr",
+  "versions": [
+    {
+      "commit": "5c9f81e119963d4d0296d23aefe6010bd819f64e",
+      "tag": "",
+      "parsed_at": "2026-11-07T15:33:15.584178+00:00"
+    }
+  ]
+}
